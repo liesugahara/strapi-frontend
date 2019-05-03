@@ -620,3 +620,8 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.embed-link{
+  height: 500px;
+  width: 100%;
+}
